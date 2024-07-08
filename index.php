@@ -7,6 +7,9 @@
 </head>
 <body>
 <?php
-echo "I love PHP!";?>
+echo 4**4;
+?>
+</body>
+</html>
 </body>
 </html>
